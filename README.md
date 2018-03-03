@@ -57,7 +57,7 @@ Shannon balked at the idea of high degree models, but we don't have that problem
 
 The program UI looks as follows:
 
-![shannon](./img/shannon.jpg)
+![shannon](./img/shannon.png)
 
 See Appendix A for some examples.
 
